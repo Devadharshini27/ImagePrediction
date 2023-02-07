@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ImagePrediction/static/css/main.727100ad.css",
+    "main.js": "/ImagePrediction/static/js/main.edd3d1ce.js",
+    "index.html": "/ImagePrediction/index.html",
+    "main.727100ad.css.map": "/ImagePrediction/static/css/main.727100ad.css.map",
+    "main.edd3d1ce.js.map": "/ImagePrediction/static/js/main.edd3d1ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.727100ad.css",
+    "static/js/main.edd3d1ce.js"
+  ]
+}
